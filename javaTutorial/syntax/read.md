@@ -19,3 +19,14 @@ public class Main{
  3. **Main Method** The public static void main(String args[]) method is the entry point where the program starts excution.
 
  4. **Statements:** Each line of code inside the method must end with a semicolon(;).
+
+ # Java Comments
+ Comments can be used to explain Java code, and to make it more readable. It can also be used to prevent execution when testing alternative code.
+
+ ## Single-line Comments
+ Single-line cooments start with two forward slashes(//).
+ Any text between // and the end of the line is ignored by Java (will not be executed).
+
+## Java Multi-line Comments
+Multi-line comments start with ```/*``` and ends with ```*/```.
+Any text between ```/*``` and ```*/``` will be ignored by Java.
